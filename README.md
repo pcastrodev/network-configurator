@@ -2,7 +2,6 @@
 
 Automação da configuração de interfaces de rede com agregação LACP (Netplan) para servidores Ubuntu 22.04.
 
-Projeto desenvolvido como parte do processo seletivo para a Associação GigaCandanga.
 
 ---
 
